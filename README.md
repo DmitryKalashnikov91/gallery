@@ -1,2 +1,2 @@
 ## нестандартная сетка GRID
-## [https://codepen.io/dmitrykalashnikov91/pen/rNvKVaw](ссылка)
+## [посмотреть на codepen](https://codepen.io/dmitrykalashnikov91/pen/rNvKVaw)
